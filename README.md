@@ -2,7 +2,7 @@
 
 Dear Students,
 
-I have uploaded the **NLP Lab Manual programs** for your practice and reference. Please go through these programs and practice them regularly so that you can understand the concepts and implementation better.
+I have uploaded the **NLP Lab Manual programs** for your practice and reference. Kindly go through these programs and practice them regularly so that you can understand the concepts and implementation better.
 
 You can use these programs as a reference while preparing for your lab sessions and practicals.
 
